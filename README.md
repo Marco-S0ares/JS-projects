@@ -1,4 +1,4 @@
-# README.md
+# JS-Projects
 
 The `README.md` file serves as the primary documentation and landing page for the **JS-projects** repository, defining its purpose as a collection of projects built using Vanilla JavaScript.
 
